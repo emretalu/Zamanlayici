@@ -1,0 +1,18 @@
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.pdb
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.Index.resources
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.exe
+c:\users\emre\documents\visual studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.pdb
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.About.resources
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.exe
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.pdb
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.pdb
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.About.resources
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.Index.resources
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\Zamanlayici.Properties.Resources.resources
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\Desktop\Zamanlayici\Zamanlayici\obj\x86\Debug\GenerateResource.write.1.tlog
